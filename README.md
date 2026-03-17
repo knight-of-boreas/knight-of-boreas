@@ -2,7 +2,11 @@ hai
 
 ![image](https://files.catbox.moe/j6fqeg.png)
 
-how do i do thid
+<p align="center">
+— — — — — — — — — —
+
+ 
+  [ata](https://vox-dei.atabook.org/) [strawpage](https://v0x-dei.straw.page)
 <!--
 
 **knight-of-boreas/knight-of-boreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
