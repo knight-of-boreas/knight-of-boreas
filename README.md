@@ -5,7 +5,7 @@ hai
 <p align="center">
 — — — — — — — — — —
 
-    </center>
+    
  [ata](https://vox-dei.atabook.org/)[strawpage](https://v0x-dei.straw.page)
 <!--
 
