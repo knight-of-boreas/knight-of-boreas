@@ -1,6 +1,5 @@
 hai
 
-
 ![aww](https://files.catbox.moe/j6fqeg.png)
 
 
@@ -8,9 +7,8 @@ hai
 — — — — — — — — — —
 
 <p align="center">   
-
-[ata](https://vox-dei.atabook.org/)
-  [strawpage](https://v0x-dei.straw.page)
+[ata](https://vox-dei.atabook.org/) - [strawpage](https://v0x-dei.straw.page)
+</p>
 
 <!--
 
