@@ -1,6 +1,8 @@
 hai
+<p align="center">
+  <img width="460" height="300" src="[[https://picsum.photos/460/300](https://files.catbox.moe/j6fqeg.png)]">
+</p>
 
-![aww](https://files.catbox.moe/j6fqeg.png)
 
 
 <p align="center">
