@@ -1,8 +1,8 @@
 hai
 
-<center>
-
-  ![image](https://files.catbox.moe/j6fqeg.png)
+<p align="center"
+<src="https://files.catbox.moe/j6fqeg.png">
+  </p>
 
 <p align="center">
 — — — — — — — — — —
