@@ -10,7 +10,7 @@
 
 <center> 
   
-  [ata](https://vox-dei.atabook.org/) - [straw](https://v0x-dei.straw.page)
+  [ata](https://rentry.co/KNlGHT-OF-BOREAS)
   
 <!--
 
