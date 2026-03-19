@@ -10,7 +10,7 @@
 
 <center> 
   
-  [ata](https://rentry.co/KNlGHT-OF-BOREAS)
+  [rentry](https://rentry.co/KNlGHT-OF-BOREAS)
   
 <!--
 
